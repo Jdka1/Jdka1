@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Aryan ([Jdka1](https://github.com/Jdka1), [16mmphotos](https://www.instagram.com/16mmphotos)). I am a student in the SF Bay Area, and I do ML and data stuff with Python, Node+front end things with JS, C++ (but probably Rust nowadays) when it actually matters, and Lisp (simple but refined, guaranteed to blow your mind). Non-Soydev with Soydevish interestes.
+I'm Aryan ([Jdka1](https://github.com/Jdka1), [16mmphotos](https://www.instagram.com/16mmphotos)). I'm a student in the Bay Area, and I'm interested ML, automation, and computer vision using Python.
 
 ![Jdka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jdka1&theme=radical&show_icons=true&count_private=true)
 
