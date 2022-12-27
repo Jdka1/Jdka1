@@ -10,6 +10,6 @@ I'm Aryan ([Jdka1](https://github.com/Jdka1), [16mmphotos](https://www.instagram
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdka1&layout=compact&theme=radical)
 
-
+<br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jdka1&theme=radical)
