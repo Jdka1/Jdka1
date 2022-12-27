@@ -6,10 +6,6 @@ I'm Aryan ([Jdka1](https://github.com/Jdka1), [16mmphotos](https://www.instagram
 
 ![Jdka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jdka1&theme=radical&show_icons=true&count_private=true)
 
-<br>
-
-<a href="https://github.com/Jdka1"><img src="contributions.svg"></a>
-
 <!-- 
 <br>
 
