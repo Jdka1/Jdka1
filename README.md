@@ -10,4 +10,4 @@ I'm Aryan (Jemoka, u/Jemoka, @JemokaJack). I am a student in the SF Bay Area, an
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jdka1&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jdka1&theme=radical)
