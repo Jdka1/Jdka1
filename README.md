@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Aryan ([Jdka1](https://github.com/Jdka1), [16mmphotos](https://www.instagram.com/16mmphotos)). I'm a student in the Bay Area, and I'm interested ML, automation, web scraping, and computer vision using Python. Some hobbies I have are basketball and geography, and I've had fun exploring how programming can affect these areas in through both machine learning in statistics and computer vision.  I'm currently looking to expand my knowledge of AI and how to apply models to real world data, and learn more about what the future of technology holds.
+I'm Aryan ([Jdka1](https://github.com/Jdka1), [16mmphotos](https://www.instagram.com/16mmphotos)). I'm a student in the Bay Area, and I'm interested ML, automation, web scraping, and computer vision using Python. Some hobbies I have are 🏀 basketball and 🌎 geography, and I've had fun exploring how programming can affect these areas in through both machine learning in statistics and computer vision. I'm currently looking to expand my knowledge of AI and how to apply models to real world data, and learn more about what the future of technology holds 🚀.
 
 ![Jdka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jdka1&theme=radical&show_icons=true&count_private=true)
 
