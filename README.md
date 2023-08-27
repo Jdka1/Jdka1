@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Aryan ([Photography Instagram](https://www.instagram.com/16mmphotos)). I'm located in the Bay Area, and I'm interested AI and ML, data science, and computer vision. Some hobbies I have are 🏀 basketball and 🌎 geography, and I've had fun exploring how programming can affect these areas in through both machine learning in statistics and computer vision. I'm currently trying to keep up with new advancements in AI and learn more about what the future of technology holds 🚀
+I'm Aryan ([Photography Instagram](https://www.instagram.com/16mmphotos), [LinkedIn](https://www.linkedin.com/in/aryan-mehra/)). I'm located in the Bay Area, and I'm interested AI and ML, data science, and computer vision. Some hobbies I have are 🏀 basketball and 🌎 geography, and I've had fun exploring how programming can affect these areas in through both machine learning in statistics and computer vision. I'm currently trying to keep up with new advancements in AI and learn more about what the future of technology holds 🚀
 
 <br>
 
