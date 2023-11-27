@@ -15,3 +15,6 @@ I'm Aryan ([Youtube](https://www.youtube.com/@arymehr), [Instagram](https://www.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jdka1&theme=radical)
  -->
+
+
+Do you like my open source projects? [Nominate me to Github Stars ⭐](https://stars.github.com/nominate/)https://stars.github.com/nominate/
