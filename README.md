@@ -17,4 +17,4 @@ I'm Aryan ([Youtube](https://www.youtube.com/@arymehr), [Instagram](https://www.
  -->
 
 
-Do you like my open source projects? [Nominate me to Github Stars ⭐](https://stars.github.com/nominate/)
+[Nominate me to Github Stars ⭐](https://stars.github.com/nominate/)
