@@ -4,7 +4,7 @@ I'm Aryan ([Youtube](https://www.youtube.com/@arymehr), [Instagram](https://www.
 
 <br>
 
-![Jdka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jdka1&theme=radical&show_icons=true&count_private=true)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!-- 
 <br>
