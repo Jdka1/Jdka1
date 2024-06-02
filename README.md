@@ -6,8 +6,6 @@ I'm [Aryan](https://web-card-eight.vercel.app/) ([Youtube](https://www.youtube.c
 
 0xc82d595AA04B8C5bb7186b4b20D20aC01822Aeb7
 
-<br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jdka1&theme=radical)
 
-<br>
